@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ClubMatch</string>
+
+    <string name="last_match">Last Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="home_badge">Home Badge</string>
+    <string name="vs">VS</string>
+    <string name="away_badge">Away Badge</string>
+    <string name="shots">Shooting</string>
+    <string name="goaler">Goal</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitute</string>
+
+
+    <array name="league">
+        <item>English Premier League</item>
+
+    </array>
+
+    <array name="match_spinner">
+        <item>Past Match</item>
+        <item>Next Match</item>
+    </array>
+    <string name="empty_data">Empty Data</string>
+    <string name="past_match">Past Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="english_pemier_league">English Premier League</string>
+
+    <string name="match_english_pemier_league">4328</string>
+
+
+    <string name="empty_parameter">empty_parameter</string>
+    <string name="pastMatch">Past Match</string>
+    <string name="nextMatch">Next Match</string>
+</resources>
